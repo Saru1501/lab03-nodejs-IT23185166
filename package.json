@@ -1,0 +1,19 @@
+{
+  "name": "lab03-nodejs-it23185166",
+  "version": "1.0.0",
+  "description": "Lab 03 NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saru1501/lab03-nodejs-IT23185166.git"
+  },
+  "author": "sarumathyV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saru1501/lab03-nodejs-IT23185166/issues"
+  },
+  "homepage": "https://github.com/Saru1501/lab03-nodejs-IT23185166#readme"
+}
